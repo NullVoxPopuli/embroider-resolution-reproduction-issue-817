@@ -62,6 +62,7 @@
     "prettier": "^2.2.1",
     "qunit": "^2.14.1",
     "qunit-dom": "^1.6.0",
+    "tracked-built-ins": "^1.1.1",
     "webpack": "^5.37.1"
   },
   "engines": {
